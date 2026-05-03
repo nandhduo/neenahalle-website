@@ -5,8 +5,8 @@ Source files for [neenahalle.com](https://neenahalle.com) — the author website
 ## Files
 
 - `index.html` — homepage
-- `books.html` — stories page
-- `about.html` — about page
+- `books/index.html` — stories page
+- `about/index.html` — about page
 - `images/` — moodboards and prose snippets
 - favicon files
 
